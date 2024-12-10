@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\form-wrapper\\form-wrapper.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\form-wrapper\\form-wrapper.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\home\\home.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\create-account\\create-account.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\create-account\\create-account.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\form-wrapper\\form-wrapper.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\form-wrapper\\form-wrapper.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\nav-bar\\nav-bar.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\create-account\\create-account.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\services\\ui.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\ui.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\expense.interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\interfaces\\models\\expense.interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\budget.interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\interfaces\\models\\budget.interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\budget-category-interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\interfaces\\models\\budget-category-interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\services\\user.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\user.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\pages\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form-wrapper.component.html",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\form-wrapper\\form-wrapper.component.html",
+              "RelativeDocumentMoniker": "src\\app\\components\\form-wrapper\\form-wrapper.component.html",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\form-wrapper\\form-wrapper.component.html",
+              "RelativeToolTip": "src\\app\\components\\form-wrapper\\form-wrapper.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-05T01:39:20.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.html",
+              "RelativeToolTip": "src\\app\\pages\\home\\home.component.html",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T02:38:32.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "create-account.component.html",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\create-account\\create-account.component.html",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.html",
+              "RelativeToolTip": "src\\app\\pages\\create-account\\create-account.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T02:39:02.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create-account.component.scss",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\pages\\create-account\\create-account.component.scss",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.scss",
+              "RelativeToolTip": "src\\app\\pages\\create-account\\create-account.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-28T02:38:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\home\\home.component.ts",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-28T02:30:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.component.scss",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\pages\\home\\home.component.scss",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.scss",
+              "RelativeToolTip": "src\\app\\pages\\home\\home.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-28T02:38:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "form-wrapper.component.scss",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\form-wrapper\\form-wrapper.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\components\\form-wrapper\\form-wrapper.component.scss",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\form-wrapper\\form-wrapper.component.scss",
+              "RelativeToolTip": "src\\app\\components\\form-wrapper\\form-wrapper.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-12-05T01:39:19.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "src\\app\\components\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "src\\app\\components\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T02:30:35.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "nav-bar.component.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\nav-bar\\nav-bar.component.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.ts",
+              "RelativeToolTip": "src\\app\\components\\nav-bar\\nav-bar.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-03T16:00:16.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "styles.scss",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\styles.scss",
+              "RelativeDocumentMoniker": "src\\styles.scss",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\styles.scss",
+              "RelativeToolTip": "src\\styles.scss",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-12-03T15:34:41.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nav-bar.component.scss",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\components\\nav-bar\\nav-bar.component.scss",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\components\\nav-bar\\nav-bar.component.scss",
+              "RelativeToolTip": "src\\app\\components\\nav-bar\\nav-bar.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-28T02:30:34.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "create-account.component.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\create-account\\create-account.component.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\create-account\\create-account.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\create-account\\create-account.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-04T02:32:01.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ui.service.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\services\\ui.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\ui.service.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\services\\ui.service.ts",
+              "RelativeToolTip": "src\\app\\services\\ui.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-04T02:31:29.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.component.scss",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\app.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\app.component.scss",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\app.component.scss",
+              "RelativeToolTip": "src\\app\\app.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-12-04T02:31:04.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "expense.interface.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\expense.interface.ts",
+              "RelativeDocumentMoniker": "src\\app\\interfaces\\models\\expense.interface.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\expense.interface.ts",
+              "RelativeToolTip": "src\\app\\interfaces\\models\\expense.interface.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-03T15:57:54.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "budget.interface.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\budget.interface.ts",
+              "RelativeDocumentMoniker": "src\\app\\interfaces\\models\\budget.interface.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\budget.interface.ts",
+              "RelativeToolTip": "src\\app\\interfaces\\models\\budget.interface.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-03T15:57:53.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "budget-category-interface.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\budget-category-interface.ts",
+              "RelativeDocumentMoniker": "src\\app\\interfaces\\models\\budget-category-interface.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\interfaces\\models\\budget-category-interface.ts",
+              "RelativeToolTip": "src\\app\\interfaces\\models\\budget-category-interface.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-03T15:57:50.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "user.service.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\services\\user.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\user.service.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\services\\user.service.ts",
+              "RelativeToolTip": "src\\app\\services\\user.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-03T15:57:08.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "home.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\home\\home.component.spec.ts",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\pages\\home\\home.component.spec.ts",
+              "RelativeToolTip": "src\\app\\pages\\home\\home.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-03T15:56:51.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\rabiya\\Documents\\home-budget-dev\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-28T02:30:02.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

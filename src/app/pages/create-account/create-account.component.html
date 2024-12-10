@@ -1,0 +1,22 @@
+<div class="create-account-container flex p-6 w-full h-full justify-center items-center">
+
+    <div class="container flex gap-8 h-fit items-center ">
+        <div class="right-section">
+            <img src="assets/home.png" alt="" srcset="">
+        </div>
+        <div class="h-100" style=" border: 1px solid black; border-radius: 5px;">
+            <div [formGroup]="accountForm" class="left-section flex flex-col flex-1 gap-y" style="padding:40px;gap:15px;">
+                <!--<h1 class="text-[72px] font-bold">Take Control of <span class="text-customHsl-accent">Your Money</span></h1>-->
+                <!--<p class="text-2xl">Personal budgeting is the secret to financial freedom. Start your journey today.</p>-->
+                <p class="text-xl">
+                    Mastering personal budgeting unlocks the path to financial freedom. Begin your journey today.
+                </p>
+                <input formControlName="name" class="input-select" type="text" placeholder="Enter account name">
+
+                <button [disabled]="accountForm.invalid" (click)="createAccount()" class="btn text-white border-none w-fit text-[14px]" >
+                    Create Account
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
