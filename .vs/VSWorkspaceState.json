@@ -5,12 +5,13 @@
     "\\src\\app",
     "\\src\\app\\components",
     "\\src\\app\\components\\budget-card",
+    "\\src\\app\\myfeedback",
     "\\src\\app\\pages",
     "\\src\\app\\pages\\create-account",
     "\\src\\app\\pages\\home",
     "\\src\\app\\services",
     "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\components\\budget-card\\budget-card.component.html",
+  "SelectedNode": "\\src\\app\\app.routes.ts",
   "PreviewInSolutionExplorer": false
 }

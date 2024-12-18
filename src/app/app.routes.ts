@@ -3,6 +3,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { CreateAccountComponent } from './pages/create-account/create-account.component';
 import { BudgetDetailsComponent } from './pages/budget-details/budget-details.component';
 import { authGuard } from './guards/auth.guard';
+//import { MyfeedbackComponent } from './myfeedback/myfeedback.component';
 
 export const routes: Routes = [
     {
@@ -23,4 +24,11 @@ export const routes: Routes = [
     {
         path: 'create-account',
         component: CreateAccountComponent
-    }];
+    },
+    //{
+    //    path: 'feedback',
+    //    component: MyfeedbackComponent,
+    //    canActivate: [authGuard]
+    //},
+
+];
